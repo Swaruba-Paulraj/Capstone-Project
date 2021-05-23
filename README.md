@@ -1,7 +1,8 @@
 # Capstone-Project
 # Title : MAXIMIZING CUSTOMER RETENTION BY PREDICTING CUSTOMER CHURN 
 
-# Description : Given the details on customers’ orders and promotion emails sent, the task is to predict whether the 
+# Description : 
+Given the details on customers’ orders and promotion emails sent, the task is to predict whether the 
 customer is churned or retained. Also, we study the effect of email promotion on the customer churn rate, so that we 
 can explain whether upsell or cross-selling of products improves the customer relationship
 
